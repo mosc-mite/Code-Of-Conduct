@@ -1,5 +1,5 @@
 
-# CODE OF CONDUCT &nbsp; [![GitHub release](https://img.shields.io/badge/Release-v1.0-green.svg?&colorA=024a70&?&colorB=0779b5)](https://github.com/mosc-mite/Code-Of-Conduct)&nbsp;[![](https://img.shields.io/github/license/instaloader/instaloader.svg)](https://github.com/mosc-mite/Code-Of-Conduct/blob/master/LICENSE)
+# CODE OF CONDUCT &nbsp; [![GitHub release](https://img.shields.io/badge/Release-v1.0-green.svg?&colorA=024a70&?&colorB=0779b5)](https://github.com/mosc-mite/Code-Of-Conduct)&nbsp;[![](https://img.shields.io/github/license/instaloader/instaloader.svg)](https://github.com/mosc-mite/Code-Of-Conduct/blob/master/License.md)
 
 The MITE Open Source Community (MOSC) is a student-run organization affiliated with [Mangalore Institute of Technology and Engineering](http://www.mite.ac.in/) which renders learning in Open Source, Competitive programming, and multiple
 trending technologies to the students of MITE.
